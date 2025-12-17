@@ -1,0 +1,39 @@
+```
+# Build artifacts
+obj/
+bin/
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+project.assets.json
+project.nuget.cache
+
+# Dependencies
+packages/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test and coverage
+coverage/
+htmlcov/
+*.coverage
+
+# Temporary files
+*.tmp
+```
