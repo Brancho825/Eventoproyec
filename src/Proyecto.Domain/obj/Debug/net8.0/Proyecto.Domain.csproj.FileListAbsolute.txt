@@ -1,0 +1,11 @@
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\bin\Debug\net8.0\Proyecto.Domain.deps.json
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\bin\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\bin\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.AssemblyInfoInputs.cache
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.AssemblyInfo.cs
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.dll
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\refint\Proyecto.Domain.dll
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\Proyecto.Domain.pdb
+C:\Users\jhims\Desktop\ProyectoEventos\src\Proyecto.Domain\obj\Debug\net8.0\ref\Proyecto.Domain.dll
